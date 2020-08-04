@@ -69,7 +69,7 @@ Hi there 👋🏽, I'm Bao, a Full-stack Software Engineer based in Ho Chi Minh 
 ### **Working Experience:**
 
 - #### Simpson Strong-Tie Vietnam
-  Associate Senior Software Engineer Software Engineer - _2019 - now_
+  Associate Senior Software Engineer Software Engineer - <p float="right">2019 - now</p>
 - #### Simpson Strong-Tie Vietnam
   Software Engineer - _2018 - 2019_
 - #### Brayang Studio
@@ -78,7 +78,7 @@ Hi there 👋🏽, I'm Bao, a Full-stack Software Engineer based in Ho Chi Minh 
 ### **Some projects I've work on:**
 
 - #### **PMA - Project Management Web Application**
-    <p style="margin-top: -10px"><strong>Project Management Application (PMA)</strong> is a web-based <strong>ERP, CRM</strong> application to manage and keep tracking time for all projects of Simpson Strong-Tie. It helps our company streamlines activities such as Task Management, Team Collaboration, Time Management, Productivity, Reporting, and Resource Analysis. While these applications can work on a standalone basis, but PMA combines to make them work with each other. We've built both for the web app and the hybrid mobile version available in both Android and iOS devices.</p>
+    <p style="margin-top: -10px"><strong>Project Management Application (PMA)</strong> is a web-based <strong>ERP, CRM</strong> application to manage and keep tracking time for all projects of Simpson Strong-Tie. It helps our company streamlines activities such as Task Management, Team Collaboration, Time Management, Productivity, Reporting, and Resource Analysis. While these applications can work on a standalone basis, but PMA combines to make them work with each other. I've built both for the web app and the hybrid mobile version available in both Android and iOS devices.</p>
 - #### **Metal Defender: Battle of Fire - Mobile Game**
     <p style="margin-top: -10px"><a href="https://play.google.com/store/apps/details?id=com.gematelescop.thelastguard&hl=en" target="_blank">Metal Defender: Battle of Fire</a> - A 2D Strategy Mobile game</p>
 - ### **Strike Back: Elite Force - Mobile Game**
