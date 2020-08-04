@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-![](./img/header_.png)
+![](https://github.com/baonguyen48/baonguyen48/blob/master/img/header_.png)
 
 ## Full-stack Software Engineer
 
@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 
 ### **Working Experience:**
 
-- <div> <img src="./img/simpson-logo-opt.jpg" height="30" style="display:inline-block; float:left; margin: 3px 15px 0 0"/><h4>Simpson Strong-Tie Vietnam</h4><div style="margin: -15px 0 0 15px;"><i>Associate Senior Software Engineer Software Engineer</i> <span style="float: right">2019 - now</span></div>
-- <div> <img src="./img/simpson-logo-opt.jpg" height="30" style="display:inline-block; float:left; margin: 3px 15px 0 0"/><h4>Simpson Strong-Tie Vietnam</h4><div style="margin: -15px 0 0 15px;"><i>Software Engineer</i> <span style="float: right">2018 - 2019</span></div>
-- <div> <img src="./img/brayang-logo.png" height="30" style="display:inline-block; float:left; margin: 8px 15px 0 0"/><h4>Brayang Studio</h4><div style="margin: -15px 0 0 15px;"><i>Gameplay Developer</i> <span style="float: right">2016 - 2018</span></div>
+- <div> <img src="https://github.com/baonguyen48/baonguyen48/blob/master/img/simpson-logo-opt.jpg" height="30" style="display:inline-block; float:left; margin: 3px 15px 0 0"/><h4>Simpson Strong-Tie Vietnam</h4><div style="margin: -15px 0 0 15px;"><i>Associate Senior Software Engineer Software Engineer</i> <span style="float: right">2019 - now</span></div>
+- <div> <img src="https://github.com/baonguyen48/baonguyen48/blob/master/img/simpson-logo-opt.jpg" height="30" style="display:inline-block; float:left; margin: 3px 15px 0 0"/><h4>Simpson Strong-Tie Vietnam</h4><div style="margin: -15px 0 0 15px;"><i>Software Engineer</i> <span style="float: right">2018 - 2019</span></div>
+- <div> <img src="https://github.com/baonguyen48/baonguyen48/blob/master/img/brayang-logo.png" height="30" style="display:inline-block; float:left; margin: 8px 15px 0 0"/><h4>Brayang Studio</h4><div style="margin: -15px 0 0 15px;"><i>Gameplay Developer</i> <span style="float: right">2016 - 2018</span></div>
 
 ### **Some projects I've work on:**
 
