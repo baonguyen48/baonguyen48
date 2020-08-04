@@ -69,7 +69,7 @@ Hi there 👋🏽, I'm Bao, a Full-stack Software Engineer based in Ho Chi Minh 
 ### **Working Experience:**
 
 - #### Simpson Strong-Tie Vietnam
-  Associate Senior Software Engineer Software Engineer - <p float="right">2019 - now</p>
+  Associate Senior Software Engineer Software Engineer <span float="right">2019 - now</span>
 - #### Simpson Strong-Tie Vietnam
   Software Engineer - _2018 - 2019_
 - #### Brayang Studio
