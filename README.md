@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-
 ![](https://github.com/baonguyen48/baonguyen48/blob/master/img/header_.png)
 
 ## Full-stack Software Engineer
@@ -29,6 +27,11 @@ Here are some ideas to get you started:
 ### **About me**
 
 <!-- insert some asp.net and angular image -->
+
+Hi there 👋🏽, I'm Bao, a Full-stack Software Engineer based in Ho Chi Minh City, Vietnam. I convert coffee into code. I'm very passionate about Software Engineering, learning, productivity and building stuff. I specialize in creating software applications using mostly Angular and jQuery on the frontend, ASP.NET and Node.js on the backend.
+
+![](https://github.com/baonguyen48/baonguyen48/blob/master/img/asp-net.png)
+![](https://github.com/baonguyen48/baonguyen48/blob/master/img/angular.png)
 
 ### **Tech stacks:**
 
@@ -66,18 +69,19 @@ Here are some ideas to get you started:
 ### **Working Experience:**
 
 - #### Simpson Strong-Tie Vietnam
-  **Associate Senior Software Engineer Software Engineer** 2019 - now
+  Associate Senior Software Engineer Software Engineer - _2019 - now_
 - #### Simpson Strong-Tie Vietnam
-  **Software Engineer** 2018 - 2019
+  Software Engineer - _2018 - 2019_
 - #### Brayang Studio
-  **Gameplay Developer** 2016 - 2018
+  Gameplay Developer - _2016 - 2018_
 
 ### **Some projects I've work on:**
 
 - #### **PMA - Project Management Web Application**
     <p style="margin-top: -10px"><strong>Project Management Application (PMA)</strong> is a web-based <strong>ERP, CRM</strong> application to manage and keep tracking time for all projects of Simpson Strong-Tie. It helps our company streamlines activities such as Task Management, Team Collaboration, Time Management, Productivity, Reporting, and Resource Analysis. While these applications can work on a standalone basis, but PMA combines to make them work with each other. We've built both for the web app and the hybrid mobile version available in both Android and iOS devices.</p>
 - #### **Metal Defender: Battle of Fire - Mobile Game**
-    <p style="margin-top: -10px"><a href="Metal Defender: Battle Of Fire" target="_blank"></a>A 2D Strategy Mobile game</p>
+    <p style="margin-top: -10px"><a href="https://play.google.com/store/apps/details?id=com.gematelescop.thelastguard&hl=en" target="_blank">Metal Defender: Battle of Fire</a> - A 2D Strategy Mobile game</p>
 - ### **Strike Back: Elite Force - Mobile Game**
-    <p style="margin-top: -10px">Test test test</p>
+    <p style="margin-top: -10px"><a href="https://play.google.com/store/apps/details?id=com.brayang.rescusestrikeback&hl=en" target="_blank">Strike Back: Elite Force</a> - A 2D Strategy Mobile game</p>
 - ### **Other Projects**
+  While working in Simpson Strong-Tie Vietnam, I've built some others WebApp using different Tech-stacks for Learning purpose only. Contact me for a specific information.
