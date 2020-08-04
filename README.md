@@ -78,10 +78,21 @@ Hi there 👋🏽, I'm Bao, a Full-stack Software Engineer based in Ho Chi Minh 
 ### **Some projects I've work on:**
 
 - #### **PMA - Project Management Web Application**
-  - <strong>Project Management Application (PMA)</strong> is a web-based <strong>ERP, CRM</strong> application to manage and keep tracking time for all projects of Simpson Strong-Tie. It helps our company streamlines activities such as Task Management, Team Collaboration, Time Management, Productivity, Reporting, and Resource Analysis. While these applications can work on a standalone basis, but PMA combines to make them work with each other. I've built both for the web app and the hybrid mobile version available in both Android and iOS devices.
-- #### **Metal Defender: Battle of Fire - Mobile Game**
-    <p style="margin-top: -10px"><a href="https://play.google.com/store/apps/details?id=com.gematelescop.thelastguard&hl=en" target="_blank">Metal Defender: Battle of Fire</a> - A 2D Strategy Mobile game</p>
-- ### **Strike Back: Elite Force - Mobile Game**
-    <p style="margin-top: -10px"><a href="https://play.google.com/store/apps/details?id=com.brayang.rescusestrikeback&hl=en" target="_blank">Strike Back: Elite Force</a> - A 2D Strategy Mobile game</p>
+  - **Project Management Application (PMA)** is a web-based **ERP, CRM** application to manage and keep tracking time for all projects of Simpson Strong-Tie. It helps our company streamlines activities such as Task Management, Team Collaboration, Time Management, Productivity, Reporting, and Resource Analysis. While these applications can work on a standalone basis, but PMA combines to make them work with each other. I've built both for the web app and the hybrid mobile version available in both Android and iOS devices.
+  - When working in PMA, I’ve rotated through different positions: Project owner, BA, Database Developer, Fullstack Developer, QA member.
+  - For now, I’m both a consultant to other teams and project owner of my own modules
+  - **Technicals:**
+    - ASP.NET MVC Framework, ASP.NET Core, ABP Framework, Restful API, OpenAPI, Swagger
+    - Angular SPA, Material Design, Html, Scss, Typescript, ASP.NET Razor, Html, Css, Javascript, jQuery, Admin LTE 2/3
+    - SQL
+    - IIS Express, Azure, Jenkins, Git, Bitbucket
+- #### Game Projects at Brayang Studio
+  - At first, I worked on UI design.
+  - After gaining more experience, I worked on gameplay, realtime server and API development. I was also responsible for testing the games.
+  - **Technicals:**
+    - Unity3D
+    - MonoBehaviour
+    - Firebase
+    - GameSparks
 - ### **Other Projects**
   While working in Simpson Strong-Tie Vietnam, I've built some others WebApp using different Tech-stacks for Learning purpose only. Contact me for a specific information.
